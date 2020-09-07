@@ -18,6 +18,7 @@ in app.componet.html -> general component like index.html
 
 
 four types of Data-Binding:
+
     1. String Interpolation -> <h1>{{product.title}}</h1>
 
     2. Property Binding -> <input type="text" class="calculator-screen"  [value]="currentNumber"
