@@ -3,7 +3,7 @@
  
  > ng serve (to serve the proyect in http://localhost:4200 )
 
-> ng generate module <name-module>
+> ng generate module name-module
 
 in app.modules.ts list the components in:
 @NgModule ({
